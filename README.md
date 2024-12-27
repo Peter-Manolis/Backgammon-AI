@@ -14,4 +14,6 @@ To run the game is very simple.
 
 There are no depencies needed to run the game. Simply just download the files we have in this github.
 
+Check the repository to read our paper.
+
 Thank you and enjoy.
